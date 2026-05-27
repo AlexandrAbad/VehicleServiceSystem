@@ -1,0 +1,14 @@
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\bin\Debug\net10.0\VehicleServiceSystem.exe
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\bin\Debug\net10.0\VehicleServiceSystem.deps.json
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\bin\Debug\net10.0\VehicleServiceSystem.runtimeconfig.json
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\bin\Debug\net10.0\VehicleServiceSystem.dll
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\bin\Debug\net10.0\VehicleServiceSystem.pdb
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\VehicleServiceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\VehicleServiceSystem.AssemblyInfoInputs.cache
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\VehicleServiceSystem.AssemblyInfo.cs
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\VehicleServiceSystem.csproj.CoreCompileInputs.cache
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\VehicleServiceSystem.dll
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\refint\VehicleServiceSystem.dll
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\VehicleServiceSystem.pdb
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\VehicleServiceSystem.genruntimeconfig.cache
+C:\Users\alexandra\source\repos\VehicleServiceSystem\VehicleServiceSystem\obj\Debug\net10.0\ref\VehicleServiceSystem.dll
